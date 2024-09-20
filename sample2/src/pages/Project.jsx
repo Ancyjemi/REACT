@@ -44,9 +44,9 @@ const Project = () => {
           </div>
         </div>
       </div> */}
-      <div className="flex justify-center text-center items-center min-h-screen">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 m-10 mt-0">
-          <div className="border-neutral-800 bg-white shadow-md rounded-lg p-6 transition-transform duration-300 hover:scale-90">
+      <div className="flex justify-center text-center items-center min-h-screen ">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 m-10 mt-0 ">
+          <div className="bg-pink-950 border-neutral-800 text-white  shadow-md rounded-lg p-6 transition-transform duration-300 hover:scale-90">
             <h2 className="text-xl font-semibold">
               Bakery Ordering And Billing App
             </h2>
@@ -57,7 +57,7 @@ const Project = () => {
             </p>
           </div>
 
-          <div className="border-neutral-800 bg-white shadow-md rounded-lg p-6 transition-transform duration-300 hover:scale-90">
+          <div className="border-neutral-800 bg-pink-950 text-white shadow-md rounded-lg p-6 transition-transform duration-300 hover:scale-90">
             <h2 className="text-xl font-semibold">Air Canvas</h2>
             <p className="mt-4">
               An Air Canvas is an innovative tool that allows users to draw and
@@ -69,7 +69,7 @@ const Project = () => {
             </p>
           </div>
 
-          <div className="border-neutral-800 bg-white shadow-md rounded-lg p-6 transition-transform duration-300 hover:scale-90">
+          <div className="border-neutral-800 bg-pink-950  text-white  shadow-md rounded-lg p-6 transition-transform duration-300 hover:scale-90">
             <h2 className="text-xl font-semibold">Tourist Website</h2>
             <p className="mt-4">
               Develop an interactive tourism website showcasing local

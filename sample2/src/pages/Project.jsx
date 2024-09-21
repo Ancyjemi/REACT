@@ -16,6 +16,15 @@ const Project = () => {
       description: "This is the description for project three.",
     },
   ];
+  // const fetchprojects= async()=>{
+  //   try{
+  //     const {data} = getProject
+  //   }
+  //   catch(error)
+  //   {
+  //     console.warn(error)
+  //   }
+  // }
   return (
     <>
       {" "}

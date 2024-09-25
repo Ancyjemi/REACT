@@ -1,6 +1,7 @@
 import React from "react";
 import NavBar from "../components/NavBar";
 import Profilex from "../assets/img/profile.jpg";
+import { Database, FileSpreadsheet } from "lucide-react";
 const Profile = () => {
   return (
     <>
